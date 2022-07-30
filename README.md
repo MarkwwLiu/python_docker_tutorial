@@ -1,10 +1,10 @@
 # python_docker_tutorial_fastapi
 
 - 爬蟲程式碼參考
-https://github.com/python-engineer/python-fun/blob/master/moviepicker/main.py
+<https://github.com/python-engineer/python-fun/blob/master/moviepicker/main.py>
 
 - 練習youtube
-https://youtu.be/bi0cKgmRuiA
+<https://youtu.be/bi0cKgmRuiA>
 
 - 使用指令
 
@@ -15,7 +15,7 @@ $ docker -v
 # 建構 python-imdb image 將 Dockerfile 相關檔案以及執行方式放置到 python-imdb image
 $ docker build -t python-imdb .
 
-# 執行 python-imdb image，但每次執行都會新增一個
+# 執行 python-imdb image，但每次執行都會新增一個 Container
 $ docker run python-imdb
 ```
 
