@@ -6,7 +6,10 @@
 - 練習youtube
 <https://youtu.be/bi0cKgmRuiA>
 
-- 使用指令
+- FastAPI
+<https://fastapi.tiangolo.com>
+
+## 使用指令
 
 ```bash
 # 查詢 docker 版本
