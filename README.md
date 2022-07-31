@@ -114,6 +114,8 @@ INFO:     172.17.0.1:61568 - "GET / HTTP/1.1" 200 OK
 
 ```
 
+![FAST API](img/FastAPI.png)
+
 ### python-fastapi-app/dockerfile
 
 ```bash
